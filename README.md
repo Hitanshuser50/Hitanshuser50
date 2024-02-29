@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hitansh+Gopani!;" />
 </h1>
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from Mumbai,India</h3>
 
 <br/>
 
@@ -45,6 +45,6 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 work in progress still new updays are about to be pushed soon on Github 🐍</h2>
+  <h2>🐍 work in progress still new updates are about to be pushed soon on Github 🐍</h2>
   <br>
   
