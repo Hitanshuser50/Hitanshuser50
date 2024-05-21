@@ -44,6 +44,8 @@
 <br/>
 <hr/>
 
+[![Hitanshuser50's GitHub | Languages Over Time](https://stats.quine.sh/Hitanshuser50/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hitanshuser50)
+
 <div align="center">
   <h2>🐍 work in progress still new updates are about to be pushed soon on Github 🐍</h2>
   <br>
